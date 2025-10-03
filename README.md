@@ -6,6 +6,7 @@ Passionate and skilled Backend Developer with a strong foundation in building ro
 +7 966-089-09-08  
 Moscow, Russia  
 asman2003pda45@gmail.com
+
 [Github](https://github.com/JolyBI3ll)/[Telegram](https://t.me/Mawaaay)
 
 ---
