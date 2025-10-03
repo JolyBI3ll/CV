@@ -1,12 +1,11 @@
 # **Asman Mamou**
 ## Backend Developer
 
-Passionate and skilled Backend Developer with a strong foundation in building robust and scalable API solutions. Eager to apply my technical expertise and problem-solving skills to an innovative tech company, with a focus on professional growth and tackling complex challenges.
+Results-oriented Backend Developer with expertise in Go and distributed systems. Experienced in building high-performance microservices, REST and gRPC APIs, and real-time features using WebSocket. Passionate about creating efficient, scalable, and maintainable backend architectures to solve complex business problems.
 
 +7 966-089-09-08  
 Moscow, Russia  
-asman2003pda45@gmail.com
-
+asman2003pda45@gmail.com  
 [Github](https://github.com/JolyBI3ll)/[Telegram](https://t.me/Mawaaay)
 
 ---
@@ -18,22 +17,23 @@ Bauman Moscow State Technical University (BMSTU)
 Moscow, Russia  
 **Specialization: Information and Control Systems (ИУ/ИУС)**  
 Relevant coursework:
-- Development of distributed systems and high-load services
-- Advanced algorithms and data structures
-- Database design and optimization
-- Software architecture and design patterns
+- Backend development and API design
+- Microservices architecture and distributed systems
+- Database management and optimization
+- Network protocols and web technologies
+- Software development methodologies
 
 ---
 
-## TECHNICAL SKILLS
+## HARD SKILLS
 | **Backend & Languages** | **Databases & Messaging** | **DevOps & Tools** |
 |-------------|---------------|--------------------------|
 | Go | MySQL | Docker |
 | Python | Redis | Kubernetes |
-| C/C++ | PostgreSQL | Nginx |
-| # | MongoDB | Ansible |
+| C#/C++ | PostgreSQL | Nginx |
+| R lang | MongoDB | Ansible |
 | Django | Amazon S3 | Prometheus |
-|  | Kafka | WatchTower |
+| Java | Kafka | WatchTower |
 |  |  | Git, CVS, SVN, Github, Gitlab |
 
 | **Protocols & APIs** | **Frontend** |
@@ -47,21 +47,37 @@ Relevant coursework:
 | OSI |  |
 | SSL/TLS |  |
 
+---
+
 ## SOFT SKILLS
-Management Skills  
+Management Skills
+
 Communication Skills  
+
 Highly organized and efficient  
+
 Collaboration & Teamwork
 
 ---
 
 ## WORKING SKILLS
-API design and development  
-Microservices architecture  
-System optimization and scaling  
-Code review and quality assurance  
-Agile/Scrum methodologies  
-Distributed systems development
+Backend system architecture design  
+
+API development and integration  
+
+Microservices implementation  
+
+Database optimization and performance tuning  
+
+Code quality assurance and testing  
+
+Agile development practices  
+
+System monitoring and maintenance  
+
+Technical documentation writing  
+
+Problem-solving and debugging
 
 ## ORGANIZATIONS
 EGAR Technologies (2024 - Present)
@@ -91,11 +107,14 @@ EGAR Technologies
 2024 - Present  
 Moscow, Russia  
 **Key responsibilities:**
-- Developed and maintained backend services using Go and Python
-- Implemented RESTful APIs and gRPC services for distributed systems
-- Optimized database performance and query efficiency
-- Participated in code reviews and collaborated with frontend teams
-- Contributed to microservices architecture implementation
+- Developed and maintained high-performance backend systems for financial and banking platforms
+- Implemented real-time data processing for stock exchange and trading systems
+- Designed and optimized financial transaction processing pipelines using Go
+- Built secure API integrations with banking systems and payment gateways
+- Developed monitoring and analytics tools for financial data streams
+- Participated in the development of risk management and fraud detection systems
+- Collaborated with financial analysts to implement business logic for trading algorithms
+- Ensured system reliability and low-latency performance for financial operations
 
 ## PROJECTS
 ### Putnik - Traveler Accommodation Platform
